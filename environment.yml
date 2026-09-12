@@ -1,0 +1,9 @@
+name: BERN02-workflow
+
+dependencies:
+  - python=3.13.5
+  - pandas=2.3.3
+  - numpy=2.4.4
+  - matplotlib=3.10.1
+  - seaborn=0.13.2
+  - jupyter
